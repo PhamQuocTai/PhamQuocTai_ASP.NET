@@ -1,0 +1,58 @@
+﻿{
+<<<<<<< HEAD
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+=======
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+>>>>>>> 81baa28 (Kiem tra 1)
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+<<<<<<< HEAD
+      "applicationUrl": "http://localhost:43310",
+      "sslPort": 44313
+    }
+  },
+  "profiles": {
+    "PhamQuocTai_2122110011_ASP": {
+=======
+      "applicationUrl": "http://localhost:49972",
+      "sslPort": 44318
+    }
+  },
+  "profiles": {
+    "http": {
+>>>>>>> 81baa28 (Kiem tra 1)
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+<<<<<<< HEAD
+      "applicationUrl": "https://localhost:7254;http://localhost:5062",
+=======
+      "applicationUrl": "http://localhost:5275",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7004;http://localhost:5275",
+>>>>>>> 81baa28 (Kiem tra 1)
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
